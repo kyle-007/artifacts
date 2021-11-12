@@ -1,5 +1,11 @@
 # Artifacts
 
+#### Tasks
+
+* [ ] Create a clickable structure
+* [ ] Create a dashboard
+* [ ] Execute
+
 ## SW Developments
 
 ### Purescripts
@@ -17,4 +23,6 @@ class Aggregate layerCmd layerEvt agCmd agEvt agView where
   readView
   
 ```
+
+Extract everything else to this git
 
